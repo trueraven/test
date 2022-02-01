@@ -9,5 +9,17 @@ package JavaApplication;
  * @author usuario
  */
 public class JavaApplication {
+  
+    
+    
+public static int test(int x){
+
+return x;
+}
+    
+    
+    
     
 }
+        
+
